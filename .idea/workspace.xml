@@ -5,22 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9078f0f-265e-4ae7-9f3f-f332bd825ecd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/preferences/ClientPreferencesApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/preferences/controller/ClientPreferencesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/preferences/exception/NotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/preferences/model/ClientPreferences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/preferences/model/DTO/ClientPreferencesDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/preferences/model/DTO/ClientPreferencesResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/preferences/model/mapper/ClientPreferencesMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/preferences/persistence/ClientPreferencesRespository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/preferences/service/ClientPreferencesService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/preferences/service/ClientPreferencesServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/preferences/ClientPreferencesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/preferences/ClientPreferencesApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/preferences/controller/ClientPreferencesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/preferences/controller/ClientPreferencesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/preferences/model/ClientPreferences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/preferences/model/DTO/ClientPreferencesDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/preferences/model/DTO/ClientPreferencesResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/preferences/model/mapper/ClientPreferencesMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/preferences/persistence/ClientPreferencesRespository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/preferences/persistence/ClientPreferencesRespository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/preferences/service/ClientPreferencesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/preferences/service/ClientPreferencesService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/preferences/service/ClientPreferencesServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/preferences/service/ClientPreferencesServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +36,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -47,16 +48,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ClientPreferencesApplication.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Apps/JDK17/clientpreferences-service"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ClientPreferencesApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Apps/JDK17/clientpreferences-service&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
