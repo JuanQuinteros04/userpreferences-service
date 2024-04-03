@@ -1,8 +1,7 @@
 package com.preferences.service;
 
-import com.preferences.model.DTO.ClientPreferencesDTO;
-import com.preferences.model.DTO.ClientPreferencesResponse;
-
+import com.commons.client.model.DTO.ClientPreferencesDTO;
+import com.commons.client.model.DTO.ClientPreferencesResponse;
 import java.util.List;
 
 public interface ClientPreferencesService {

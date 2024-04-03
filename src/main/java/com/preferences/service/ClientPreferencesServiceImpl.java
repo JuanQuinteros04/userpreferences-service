@@ -1,13 +1,12 @@
 package com.preferences.service;
 
+import com.commons.client.model.ClientPreferences;
 import com.preferences.exception.NotFoundException;
-import com.preferences.model.ClientPreferences;
-import com.preferences.model.DTO.ClientPreferencesDTO;
-import com.preferences.model.DTO.ClientPreferencesResponse;
-import com.preferences.model.mapper.ClientPreferencesMapper;
+import com.commons.client.model.DTO.ClientPreferencesDTO;
+import com.commons.client.model.DTO.ClientPreferencesResponse;
+import com.commons.client.model.mappers.ClientPreferencesMapper;
 import com.preferences.persistence.ClientPreferencesRespository;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Repository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

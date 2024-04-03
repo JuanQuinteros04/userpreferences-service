@@ -1,7 +1,7 @@
 package com.preferences.controller;
 
-import com.preferences.model.DTO.ClientPreferencesDTO;
-import com.preferences.model.DTO.ClientPreferencesResponse;
+import com.commons.client.model.DTO.ClientPreferencesDTO;
+import com.commons.client.model.DTO.ClientPreferencesResponse;
 import com.preferences.service.ClientPreferencesService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
